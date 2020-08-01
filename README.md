@@ -1,2 +1,2 @@
-# bootstrap-page-example
-Ejercicio de bootstrap 
+## Pagina en bootsptrap
+Ejercicio de bootstrap desde tutorial de internet.
